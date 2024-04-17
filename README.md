@@ -1,2 +1,2 @@
-# Light-Dark
+# Contagion
 Extention of mindustrinity mod
