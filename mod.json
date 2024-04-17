@@ -1,12 +1,12 @@
 {
-    "displayName": "[white[]]Light[grey[]]&[purple[]]Dark", 
-    "name": "light&dark",
+    "displayName": "Contagion", 
+    "name": "contagion",
     "author": "[#009BFF[]]Wolflab Studio",
-    "subtitle": "Rise and shine ! 2 new elements join the battle",
-    "description": "note : this is a extention of mindustrinity mod\n \n \n       \n    - Arth0x",
+    "subtitle": "All will en soon",
+    "description": "gfxcf",
     "version": "0.0.01",
     "minGameVersion": "140.4",
-    "repo": "Arth0x/Light-Dark"
+    "repo": "Arth0x/Contagion"
 }
 
 
