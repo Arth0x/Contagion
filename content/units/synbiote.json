@@ -3,15 +3,13 @@
     "research": "dagger",
     "type": "legs",
     "faceTarget": true,
-    "speed": 5,
+    "speed": 2,
     "health": 150,
     "range": 120,
     "flying": false,
 	"maxStretch": 1.5,
 	"legCount": 3,
-	"legLength": 15,
+	"legLength": 8,
 	"visualElevation": 0.1,
-	"allowLegStep": true,
-    "lockLegBase": true,
     "legContinuousMove": true
 }
